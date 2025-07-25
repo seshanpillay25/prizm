@@ -157,7 +157,7 @@ Prizm files are designed to work seamlessly with AI assistants:
 Start with the Core Trinity and add extended documents when:
 
 ### style.md
-- **Add when:** Team size > 2 developers
+- **Add when:** Team size > 2
 - **Purpose:** Coding standards and conventions
 - **Benefits:** Consistent code quality, faster onboarding
 
@@ -219,13 +219,13 @@ Prizm also works with:
 Perfect for learning Prizm basics:
 - **Files**: requirements.md, design.md, tasks.md
 - **Features**: Basic functionality, simple architecture
-- **Team**: 1 developer, 2 weeks
+- **Team**: 1 person, 2 weeks
 
 ### Web API
 Demonstrates scaling to medium complexity:
 - **Files**: Core Trinity + style.md, testing-strategy.md, integrations.md
 - **Features**: REST API, authentication, database
-- **Team**: 2-3 developers, 3 weeks
+- **Team**: 2-3 people, 3 weeks
 
 ### SaaS Application
 Shows comprehensive documentation:

@@ -105,7 +105,7 @@ Help me assess this project and choose the appropriate Prizm complexity level:
 
 Project Details:
 - Project type: E-commerce mobile app with backend API
-- Team size: 6 developers (2 mobile, 3 backend, 1 full-stack)
+- Team size: 6 people
 - Timeline: 16 weeks
 - Technology stack: React Native, Node.js, PostgreSQL, AWS
 - Complexity factors: Payment processing, inventory management, user reviews
@@ -345,7 +345,7 @@ Help me set sprint goals based on current project specifications:
 
 Current Sprint: Sprint 3
 Sprint Duration: 2 weeks
-Team Capacity: 80 story points (4 developers)
+Team Capacity: 80 story points
 
 Project Context:
 - Current requirements: REQ-001 (Authentication) completed, REQ-002 (User management) in progress
@@ -474,11 +474,10 @@ Provide a detailed capacity plan with work allocation and timeline.
 ```
 Help me plan team capacity for the upcoming development period:
 
-Team Composition:
-- Senior Backend Developer: 2 people, expert level, 90% availability
-- Frontend Developer: 2 people, intermediate level, 85% availability
-- DevOps Engineer: 1 person, expert level, 60% availability
-- QA Engineer: 1 person, intermediate level, 100% availability
+Team Information:
+- Team size: 6 people
+- Availability: Varies from 60% to 100%
+- Skill mix: Expert and intermediate levels
 
 Work Requirements:
 - Requirements to implement: REQ-003 (API endpoints), REQ-004 (UI components)
@@ -487,7 +486,7 @@ Work Requirements:
 
 Planning Context:
 - Planning period: 6 weeks (3 sprints)
-- Known commitments: 1 developer on vacation week 4-5
+- Known commitments: 1 team member on vacation week 4-5
 - Team velocity: 45 story points per sprint
 - Uncertainty factors: New technology learning curve, external API dependencies
 
@@ -554,8 +553,8 @@ Requirements Analysis:
 - Timeline constraints: MVP in 3 months, full launch in 6 months
 
 Current Resources:
-- Available team members: 3 developers, 1 designer
-- Skill levels: 1 senior, 2 junior developers
+- Available team members: 4 people
+- Experience levels: Mixed experience
 - Availability: 100% for 4 months, then 75%
 - Budget constraints: $800K total budget
 
@@ -716,7 +715,7 @@ Conduct a comprehensive risk analysis for this project:
 Project Context:
 - Project scope: Multi-tenant SaaS platform with real-time features
 - Timeline: 6 months to MVP, 12 months to full launch
-- Team: 8 developers, 2 designers, 1 PM
+- Team: 11 people
 - Budget: $1.2M total budget
 
 Current Specifications:
@@ -811,7 +810,7 @@ Project Schedule:
 Task Dependencies:
 - Critical dependencies: Authentication blocks all other features
 - External dependencies: Payment processor approval, security audit
-- Resource dependencies: Senior developer needed for architecture decisions
+- Resource dependencies: Architecture expertise needed for key decisions
 
 Risk Factors:
 1. Estimation Accuracy
@@ -820,8 +819,8 @@ Risk Factors:
    - Unknown requirements: 20% of features not fully defined
 
 2. Resource Availability
-   - Team availability: 1 developer on vacation weeks 10-12
-   - Skill availability: Only 1 senior developer for complex tasks
+   - Team availability: 1 team member on vacation weeks 10-12
+   - Skill availability: Limited expertise for complex tasks
    - External resource dependencies: Security consultant, UX designer
 
 3. External Factors
@@ -953,7 +952,7 @@ Current Requirements:
 
 Roadmap Context:
 - Planning horizon: 18 months
-- Resource constraints: 8 developers, $2M budget
+- Resource constraints: 8 team members, $2M budget
 - Market timing: Need MVP in 6 months for funding round
 - Technical dependencies: Real-time infrastructure, AI/ML capabilities
 
@@ -1020,7 +1019,7 @@ Help me conduct a retrospective and plan improvements:
 
 Sprint/Project Context:
 - Period: Sprint 4 (2 weeks)
-- Team: 5 developers, 1 designer, 1 PM
+- Team: 7 people
 - Goals: Complete user authentication and basic project management
 - Outcomes: Authentication completed, project management 70% done
 
@@ -1106,13 +1105,13 @@ Help me adapt project plans based on new information:
 Current Plan:
 - Timeline: 20 weeks to MVP launch
 - Scope: 12 core features for project management
-- Resources: 6 developers, $600K budget
+- Resources: 6 team members, $600K budget
 - Assumptions: Standard web app, basic integrations
 
 New Information:
 - Changed requirements: Must add mobile app for launch
 - New constraints: GDPR compliance required for EU launch
-- Resource changes: 1 senior developer leaving in 8 weeks
+- Resource changes: 1 team member leaving in 8 weeks
 - Market changes: Competitor launched similar product
 
 Impact Analysis:

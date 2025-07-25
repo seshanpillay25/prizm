@@ -479,8 +479,8 @@ Third-party service limitations
 - **Critical Bug Fixes:** 24-hour resolution
 
 ### Resource Constraints
-- **Team Size:** Maximum 5 developers
-- **Technology Training:** 2 weeks maximum per developer
+- **Team Size:** Maximum 5 people
+- **Technology Training:** 2 weeks maximum per person
 - **External Dependencies:** Minimize vendor lock-in
 ```
 

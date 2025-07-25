@@ -140,19 +140,19 @@ fix: correct task estimates in tasks.md
 
 #### Choosing the Right Starting Point
 ```bash
-# Simple project (1-2 developers, 2-4 weeks)
+# Simple project (1-2 people, 2-4 weeks)
 cp -r prizm/templates/core/* project/spec/
 # Add: requirements.md, design.md, tasks.md
 
-# Medium project (3-5 developers, 1-3 months)
+# Medium project (3-5 people, 1-3 months)
 cp -r prizm/examples/web-api/spec/* project/spec/
 # Add: Core Trinity + style.md, testing-strategy.md, integrations.md
 
-# Complex project (5+ developers, 3+ months)
+# Complex project (5+ people, 3+ months)
 cp -r prizm/examples/saas-app/spec/* project/spec/
 # Add: Core Trinity + 6 extended documents
 
-# Enterprise project (10+ developers, 6+ months)
+# Enterprise project (10+ people, 6+ months)
 cp -r prizm/examples/microservices/spec/* project/spec/
 # Add: Core Trinity + 11 extended documents
 ```

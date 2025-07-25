@@ -34,10 +34,10 @@ templates/
 │   └── express/       # Express.js APIs
 │
 └── by-size/           # Templates by team/project size
-    ├── solo/          # Individual developers
-    ├── small-team/    # 2-5 developers
-    ├── medium-team/   # 5-15 developers
-    └── large-team/    # 15+ developers
+    ├── solo/          # Individual contributors
+    ├── small-team/    # 2-5 people
+    ├── medium-team/   # 5-15 people
+    └── large-team/    # 15+ people
 ```
 
 ## 🎯 Choosing the Right Template

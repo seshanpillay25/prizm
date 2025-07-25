@@ -194,7 +194,6 @@ Tackle high-risk items early:
 ## Phase 1: Foundation (Month 1)
 
 ### Week 1-2: Architecture Spike
-**Team:** 2 Architects, 3 Senior Developers
 
 - [ ] Proof of concept for microservices communication
 - [ ] Service mesh evaluation
@@ -202,7 +201,6 @@ Tackle high-risk items early:
 - [ ] Security architecture review
 
 ### Week 3-4: Infrastructure
-**Team:** 2 DevOps, 2 Backend Developers
 
 - [ ] Kubernetes cluster setup
 - [ ] CI/CD pipeline for microservices

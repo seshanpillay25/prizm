@@ -1034,8 +1034,7 @@ Please create:
 Create training materials for specification maintenance:
 
 Training Audience:
-- Role: Junior and senior developers
-- Experience level: Mixed (1-10 years)
+- Team members with varying experience levels
 - Training goals: Effective spec maintenance
 
 Training Topics:
